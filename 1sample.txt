@@ -1,1 +1,2 @@
 2nd sample text file for git
+some random changes are made here
