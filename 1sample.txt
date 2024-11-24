@@ -1,2 +1,3 @@
 2nd sample text file for git
 some random changes are made here
+these changes are made from master branch
